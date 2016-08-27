@@ -41,8 +41,8 @@
 			<artifactId>slf4j-log4j12</artifactId>
 			<version>1.7.14</version>
 		</dependency>
-		<!-- <dependency> <groupId>graphframes</groupId> <artifactId>graphframes</artifactId> 
-			<version>0.2.0-spark2.0-s_2.11</version> </dependency> -->
+		<dependency> <groupId>graphframes</groupId> <artifactId>graphframes</artifactId> 
+			<version>0.2.0-spark2.0-s_2.11</version> </dependency>
 	</dependencies>
 	<repositories>
 		<!-- list of other repositories -->
